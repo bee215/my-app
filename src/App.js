@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './kapilesh.svg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Making <code>King</code>New
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://www.canvendor.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Know about Canvendor 
         </a>
       </header>
     </div>
