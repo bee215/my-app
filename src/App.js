@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          <li>
           Making <code>King</code>New
-        </p>
+        </p></li>
         <a
           className="App-link"
           href="http://www.canvendor.com/"
