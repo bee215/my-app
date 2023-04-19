@@ -1,4 +1,4 @@
-import logo from './kapilesh.svg';
+
 import './App.css';
 
 function App() {
@@ -7,20 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          
-          Making <code>King</code>New
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="http://www.canvendor.com/"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Know about Canvendor 
+          Learn React
         </a>
       </header>
     </div>
-  );
-}
-
-export default App;
