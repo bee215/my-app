@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import SSS from './berin';
 import Table from './table';
+import Tables from './props';
 
 
 
@@ -11,9 +12,8 @@ root.render(
   <React.StrictMode>
         <Table/>
     <SSS/>
-    <Table/>
-    <SSS/>
-
+    <Tables/>
+  
   </React.StrictMode>
 );
 
